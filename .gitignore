@@ -1,2 +1,10 @@
 .pyc
+__pycache__/
+db.sqlite3
+/infrastructure/node_modules
+package-lock.json
+package.json
+webpack.config.js
+.babelrc
+settings.cpython-37.pyc
 .vscode/settings.json
